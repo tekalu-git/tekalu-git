@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 hey, i'm tekalu
+# 👋 hey, i'm Tekalu
 
 ### *Full-Time vibecoder* 🎭
 
@@ -20,7 +20,7 @@ class Tekalu:
     def __init__(self):
         self.language = "Python"
         self.status = "vibecoder"
-        self.current_project = None  # nothing rn
+        self.current_project = Eloy-Browser  
         
     def code(self):
         while True:
@@ -47,8 +47,5 @@ class Tekalu:
 <div align="center">
 
 *currently learning: python (still)*  
-*currently working on: nothing lol*
-
-### ✨ random project maker extraordinaire ✨
 
 </div>
