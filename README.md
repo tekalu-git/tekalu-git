@@ -11,23 +11,14 @@
 
 ---
 
-## 🐍 what i do
+## what i do
 
-just a person who makes random python projects when i feel like it. nothing fancy, nothing planned, just vibes and code.
+just a person who makes random coding projects when i feel like it. nothing fancy, nothing planned.
 
-```python
-class Tekalu:
-    def __init__(self):
-        self.language = "Python"
-        self.status = "vibecoder"
-        self.current_project = Eloy-Browser  
-        
-    def code(self):
-        while True:
-            if self.mood == "inspired":
-                self.create_random_project()
-            else:
-                self.chill()
+```javascript
+function showREADME() {
+    github.showREADME()
+}
 ```
 
 ## 📊 stats
@@ -46,6 +37,6 @@ class Tekalu:
 
 <div align="center">
 
-*currently learning: python (still)*  
+*currently learning: javascript, wish me luck*  
 
 </div>
