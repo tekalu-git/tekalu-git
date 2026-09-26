@@ -33,7 +33,7 @@ function showREADME() {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-6B46C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSH-4D6BFE?style=for-the-badge" />
 </p>
 
 ---
